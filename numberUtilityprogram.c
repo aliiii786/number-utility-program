@@ -6,7 +6,7 @@ int main(){
     int choice,num;char repeat;
 
     do{
-        printf("\n--------------------Welcome to the Number Ulitility Program--------------------\n");
+        printf("\n-------------------Welcome to the Number Ulitility Program--------------------\n");
         printf("\nLoading");sleep(1);printf(".");sleep(1);printf(".");sleep(1);printf(".");sleep(1);printf(".");
         sleep(1);
         printf("\nDisplay Menu : \n");sleep(1);
